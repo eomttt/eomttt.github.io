@@ -5,11 +5,20 @@ You can show my github [GitHub](https://github.com/eomttt)
 ### Name
 * Hyuntae Eom
 
-### Language skills
-* Javascript, Python, C++
-
 ### Skills
-* React JS, Angular JS, Node JS, Express JS, Django, Ioinic/Cordovar, React Native, Mongo DB
+* JavaScript, Python, C++, HTML, CSS
+* React JS
+  * Next JS
+  * Redux
+  * Redux-thunk
+  * Redux-saga
+  * React Native
+* Angular JS
+  * Ionic/cordova
+* Node JS
+  * Express JS
+* Django
+* Mongo DB
 
 ### Career
 * Naran Inc [link](https://www.thenaran.com/) [2015.9 ~ 2017.5]
